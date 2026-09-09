@@ -39,5 +39,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bezerra1215&label=Visualizacoes%20do%20Perfil&color=38BDF8&style=for-the-badge" alt="Contador de Visitas" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bezerra1215&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bezerra1215&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
