@@ -33,12 +33,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bezerra1215&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bezerra1215&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
