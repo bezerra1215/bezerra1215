@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Hugo! 👋
 
-<!--
-**bezerra1215/bezerra1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-bezerra-a940a43a1/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕵️ Sobre mim
+
+Desenvolvedor com foco em **Engenharia de Software** e resolução de problemas através de código.
+
+- 🎓 Graduando em Engenharia de Software.
+- 💻 Atualmente me aprofundando em **Python** e arquitetura de **Bancos de Dados**.
+- 🚀 Buscando evoluir em **desenvolvimento Full-Stack** e boas práticas de código limpo.
+
+---
+
+### 🎯 Foco Atual
+
+- 🐍 Aperfeiçoamento em lógica de programação e algoritmos em **Python**.
+- 🛠️ Estruturação e modelagem de **Banco de Dados**.
+- ⚙️ Práticas de versionamento e controle de fluxo com **Git & GitHub**.
